@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feeds xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:flickr="urn:flickr:user"
+      xmlns:media="http://search.yahoo.com/mrss/">
+
+    <title>Uploads from everyone</title>
+    <link rel="self" href="http://api.flickr.com/services/feeds/photos_public.gne?format=xml&amp;nojsoncallback=1" />
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/"/>
+    <id>tag:flickr.com,2005:/photos/public</id>
+    <icon>https://s.yimg.com/pw/images/buddyicon.gif</icon>
+    <subtitle/>
+    <updated>2015-09-22T09:38:00Z</updated>
+    <generator uri="https://www.flickr.com/">Flickr</generator>
+
+    <entry>
+        <title>Pentax KS2 Genel Özellikler Ve Fiyati</title>
+        <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/135392323@N03/20998705534/"/>
+        <id>tag:flickr.com,2005:/photo/20998705534</id>
+        <published>2015-09-22T09:38:00Z</published>
+        <updated>2015-09-22T09:38:00Z</updated>
+        <flickr:date_taken>2015-09-22T11:45:20-08:00</flickr:date_taken>
+        <dc:date.Taken>2015-09-22T11:45:20-08:00</dc:date.Taken>
+        <content type="html">			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/135392323@N03/&quot;&gt;asdteknoloji&lt;/a&gt; posted a photo:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/135392323@N03/20998705534/&quot; title=&quot;Pentax KS2 Genel Özellikler Ve Fiyati&quot;&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5633/20998705534_e0e0903182_m.jpg&quot; width=&quot;240&quot; height=&quot;145&quot; alt=&quot;Pentax KS2 Genel Özellikler Ve Fiyati&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fotograf makineleri içerisinde özellikleri ile ön planda olan bu fotograf makinesi önce tasarimi ile aynasiz bir makine izlenimi birakmakta fakat durum öyle degil. Bu fotograf makinesi tam donanimli bir DSLR makine. Siyah ve beyaz renk seçenekleri ile karsimiza çikmakta. Dünyanin en ufak DSLR mak... &lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://www.asdteknoloji.net/guncel-haberler/pentax-ks2-genel-ozellikler-ve-fiyati.html&quot; rel=&quot;nofollow&quot;&gt;www.asdteknoloji.net/guncel-haberler/pentax-ks2-genel-oze...&lt;/a&gt;&lt;/p&gt;</content>
+        <author>
+            <name>asdteknoloji</name>
+            <uri>https://www.flickr.com/people/135392323@N03/</uri>
+            <flickr:nsid>135392323@N03</flickr:nsid>
+            <flickr:buddyicon>https://s.yimg.com/pw/images/buddyicon11.png#135392323@N03</flickr:buddyicon>
+        </author>
+        <link rel="enclosure" type="image/jpeg" href="https://farm6.staticflickr.com/5633/20998705534_e0e0903182_b.jpg" />
+        <category term="pentaxks2" scheme="https://www.flickr.com/photos/tags/" />
+        <displaycategories>
+        </displaycategories>
+    </entry>
+
+</feed>
